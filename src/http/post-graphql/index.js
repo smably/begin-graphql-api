@@ -8,7 +8,7 @@ let typeDefs = gql`
 
 let resolvers = {
   Query: {
-    hello: () => 'Hello world!',
+    hello: () => 'Hello Begin!',
   },
 }
 
